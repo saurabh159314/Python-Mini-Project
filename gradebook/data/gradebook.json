@@ -1,0 +1,48 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Saurabh"
+    },
+    {
+      "id": 2,
+      "name": "mohit"
+    },
+    {
+      "id": 3,
+      "name": "george"
+    }
+  ],
+  "courses": [
+    {
+      "code": "CS101",
+      "title": "Introduction to Computer Science"
+    },
+    {
+      "code": "MTL201",
+      "title": "Introduction to Algebra"
+    }
+  ],
+  "enrollments": [
+    {
+      "student_id": 1,
+      "course_code": "CS101",
+      "grades": [95.0, 65.0]
+    },
+    {
+      "student_id": 1,
+      "course_code": "MTL201",
+      "grades": [88.0]
+    },
+    {
+      "student_id": 3,
+      "course_code": "MTL201",
+      "grades": [91.0]
+    },
+    {
+      "student_id": 2,
+      "course_code": "CS101",
+      "grades": [84.0]
+    }
+  ]
+}
